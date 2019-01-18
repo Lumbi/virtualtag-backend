@@ -1,0 +1,30 @@
+{
+  "name": "virtualtag-backend",
+  "version": "0.1.2",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "background": "^0.3.3",
+    "basic-auth": "^1.0.0",
+    "body-parser": "~1.12",
+    "crypto": "0.0.3",
+    "express": "~4.9.x",
+    "mongoose": "~3.8.x",
+    "rand-token": "^0.2.1",
+    "twitter": "~1.2.4",
+    "vuforiajs": "^0.2.5"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {},
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
